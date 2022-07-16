@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gravyarts.c418records.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "C418RecordsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
