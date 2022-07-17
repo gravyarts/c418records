@@ -7,11 +7,12 @@ import net.gravyarts.c418records.sound.ModSounds;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 	
-	public static final Item RECORD_DOG = registerItem("record_dog", new RecordDiscItem(7, ModSounds.RECORD_DOG, new FabricItemSettings().group(ItemGroup.MISC).maxCount(1)));
+	public static final Item RECORD_DOG = registerItem("record_dog", new RecordDiscItem(7, ModSounds.RECORD_DOG, new FabricItemSettings().group(ItemGroup.MISC).maxCount(1).rarity(Rarity.RARE)));
 	
 	private static Item registerItem(String name, Item item) {
 		return Registry.register(Registry.ITEM, new Identifier(C418Records.MOD_ID, name), item);
