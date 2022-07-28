@@ -1,4 +1,43 @@
 {
 	"item.c418records.record_dog": "Music Disc",
-	"item.c418records.record_dog.desc": "C418 - dog"
+	"item.c418records.record_beginning": "Music Disc",
+	"item.c418records.record_door": "Music Disc",
+	"item.c418records.record_chris": "Music Disc",
+	"item.c418records.record_equinoxe": "Music Disc",
+	"item.c418records.record_droopy_ricochet": "Music Disc",
+	"item.c418records.record_droopy_face": "Music Disc",
+	"item.c418records.record_excuse": "Music Disc",
+	"item.c418records.record_moog_city": "Music Disc",
+	"item.c418records.record_death": "Music Disc",
+	
+	"item.c418records.record_dog.desc": "C418 - dog",
+	"item.c418records.record_beginning.desc": "C418 - beginning",
+	"item.c418records.record_door.desc": "C418 - door",
+	"item.c418records.record_chris.desc": "C418 - chris",
+	"item.c418records.record_equinoxe.desc": "C418 - equinoxe",
+	"item.c418records.record_droopy_ricochet.desc": "C418 - droopy likes ricochet",
+	"item.c418records.record_droopy_face.desc": "C418 - droopy likes your face",
+	"item.c418records.record_excuse.desc": "C418 - excuse",
+	"item.c418records.record_moog_city.desc": "C418 - moog city",
+	"item.c418records.record_death.desc": "C418 - death",
+	
+	"item.c418records.record_intro": "Music Disc",
+	"item.c418records.record_kyoto": "Music Disc",
+	"item.c418records.record_flake": "Music Disc",
+	"item.c418records.record_ki": "Music Disc",
+	"item.c418records.record_eleven": "Music Disc",
+	
+	"item.c418records.record_intro.desc": "C418 - intro",
+	"item.c418records.record_kyoto.desc": "C418 - kyoto",
+	"item.c418records.record_flake.desc": "C418 - flake",
+	"item.c418records.record_ki.desc": "C418 - ki",
+	"item.c418records.record_eleven.desc": "C418 - eleven",
+	
+	"item.c418records.record_tsuki": "Music Disc",
+	"item.c418records.record_flob": "Music Disc",
+	"item.c418records.record_fifflas": "Music Disc",
+	
+	"item.c418records.record_tsuki.desc": "C418 - tsuki no koibumi (feat. Laura Shigihara)",
+	"item.c418records.record_flob.desc": "C418 - i glove thy flob (feat. Disco)",
+	"item.c418records.record_fifflas.desc": "C418 - fifflas (feat. Nifflas)"
 }

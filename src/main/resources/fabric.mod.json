@@ -6,11 +6,11 @@
   "name": "C418Records",
   "description": "Adds Unused Minecraft Music as Discs",
   "authors": [
-    "gravyarts"
+    "gravyarts, ukaye"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/gravyarts/c418records"
   },
 
   "license": "CC0-1.0",

@@ -1,8 +1,110 @@
 {
-	"record_dog": {
-		"subtitle": "c418records.record_dog",
+	"music_dog": {
+		"subtitle": "c418records.music_dog",
 		"sounds": [
-			"c418records:record_dog"
+			"c418records:music_dog"
+		]
+	},
+	"music_beginning": {
+		"subtitle": "c418records.music_beginning",
+		"sounds": [
+			"c418records:music_beginning"
+		]
+	},
+	"music_door": {
+		"subtitle": "c418records.music_door",
+		"sounds": [
+			"c418records:music_door"
+		]
+	},
+	"music_chris": {
+		"subtitle": "c418records.music_chris",
+		"sounds": [
+			"c418records:music_chris"
+		]
+	},
+	"music_equinoxe": {
+		"subtitle": "c418records.music_equinoxe",
+		"sounds": [
+			"c418records:music_equinoxe"
+		]
+	},
+	"music_droopy_ricochet": {
+		"subtitle": "c418records.music_droopy_ricochet",
+		"sounds": [
+			"c418records:music_droopy_ricochet"
+		]
+	},
+	"music_droopy_face": {
+		"subtitle": "c418records.music_droopy_face",
+		"sounds": [
+			"c418records:music_droopy_face"
+		]
+	},
+	"music_excuse": {
+		"subtitle": "c418records.music_excuse",
+		"sounds": [
+			"c418records:music_excuse"
+		]
+	},
+	"music_moog_city": {
+		"subtitle": "c418records.music_moog_city",
+		"sounds": [
+			"c418records:music_moog_city"
+		]
+	},
+	"music_death": {
+		"subtitle": "c418records.music_death",
+		"sounds": [
+			"c418records:music_death"
+		]
+	},
+	"music_intro": {
+		"subtitle": "c418records.music_intro",
+		"sounds": [
+			"c418records:music_intro"
+		]
+	},
+	"music_kyoto": {
+		"subtitle": "c418records.music_kyoto",
+		"sounds": [
+			"c418records:music_kyoto"
+		]
+	},
+	"music_flake": {
+		"subtitle": "c418records.music_flake",
+		"sounds": [
+			"c418records:music_flake"
+		]
+	},
+	"music_ki": {
+		"subtitle": "c418records.music_ki",
+		"sounds": [
+			"c418records:music_ki"
+		]
+	},
+	"music_eleven": {
+		"subtitle": "c418records.music_eleven",
+		"sounds": [
+			"c418records:music_eleven"
+		]
+	},
+		"music_tsuki": {
+		"subtitle": "c418records.music_tsuki",
+		"sounds": [
+			"c418records:music_tsuki"
+		]
+	},
+		"music_flob": {
+		"subtitle": "c418records.music_flob",
+		"sounds": [
+			"c418records:music_flob"
+		]
+	},
+		"music_fifflas": {
+		"subtitle": "c418records.music_fifflas",
+		"sounds": [
+			"c418records:music_fifflas"
 		]
 	}
 }
