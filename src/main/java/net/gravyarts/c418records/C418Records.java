@@ -2,6 +2,7 @@ package net.gravyarts.c418records;
 
 import net.fabricmc.api.ModInitializer;
 import net.gravyarts.c418records.item.ModItems;
+import net.gravyarts.c418records.util.ModLootTableModifiers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,5 +15,6 @@ public class C418Records implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModLootTableModifiers.modifyLootTables();
 	}
 }

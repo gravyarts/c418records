@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "c418records:disc_fragment"
+        },
+        "B": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "c418records:record_flake",
+        "count": 1
+    }
+}

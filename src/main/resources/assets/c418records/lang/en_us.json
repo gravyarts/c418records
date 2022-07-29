@@ -27,6 +27,9 @@
 	"item.c418records.record_ki": "Music Disc",
 	"item.c418records.record_eleven": "Music Disc",
 	
+	"item.c418records.disc_fragment": "Disc Fragment"
+	"item.c418records.disc_one_fragment": "Disc Fragment"
+	
 	"item.c418records.record_intro.desc": "C418 - intro",
 	"item.c418records.record_kyoto.desc": "C418 - kyoto",
 	"item.c418records.record_flake.desc": "C418 - flake",
@@ -40,4 +43,6 @@
 	"item.c418records.record_tsuki.desc": "C418 - tsuki no koibumi (feat. Laura Shigihara)",
 	"item.c418records.record_flob.desc": "C418 - i glove thy flob (feat. Disco)",
 	"item.c418records.record_fifflas.desc": "C418 - fifflas (feat. Nifflas)"
+	
+	"item.c418records.disc_one_fragment.desc": "C418 - One"
 }
